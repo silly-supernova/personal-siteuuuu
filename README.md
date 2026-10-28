@@ -2,9 +2,9 @@
 A  minimal personal website with a little bit of info about me.
 
 ##sections
-1.**introduction**
-2.**My interests**
-3.**Connect**
+* **introduction**
+* **My interests**
+* **Connect**
 
 ##built with
 * **HTML5**
